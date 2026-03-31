@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import Image from 'next/image'
 
 const GOLD = '#c9a84c'
 const CREAM = '#f5f0e8'
@@ -27,9 +28,12 @@ export function Footer() {
 
           {/* Brand */}
           <div>
-            <h3 className="font-heading font-bold text-xl mb-3" style={{ color: GOLD }}>
-              Holland Jenever Culture
-            </h3>
+            <div className="flex items-center gap-3 mb-4">
+              <Image src="/favicon.ico" width={32} height={32} alt="Holland Jenever Culture" />
+              <h3 className="font-heading font-bold text-xl" style={{ color: GOLD }}>
+                Holland Jenever Culture
+              </h3>
+            </div>
             <p className="font-sans text-sm leading-relaxed" style={{ color: CREAM80 }}>
               Gewijd aan de rijke traditie van Nederlandse jenever — de voorvader van gin, geboren in de 16e eeuw.
             </p>
