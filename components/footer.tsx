@@ -72,7 +72,15 @@ export function Footer() {
             <address className="not-italic font-sans text-xs leading-relaxed" style={{ color: CREAM55 }}>
               FISCUS NOSTRUM FUND SERVICES LIMITED<br />
               Myrianthous Anna, Panagioti Kaspi 5A<br />
-              Nicosia 1095, Cyprus
+              Nicosia 1095, Cyprus<br />
+              E-mail:{' '}
+              <a
+                href="mailto:contac@hollandjeneverculture.com"
+                className="transition-opacity hover:opacity-70"
+                style={{ color: CREAM80 }}
+              >
+                contac@hollandjeneverculture.com
+              </a>
             </address>
           </div>
 
