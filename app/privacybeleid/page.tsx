@@ -17,7 +17,7 @@ export default function PrivacybeleidPage() {
           <p className="font-sans text-accent text-sm uppercase tracking-[0.25em] mb-3">Juridisch</p>
           <h1 className="font-heading font-bold text-4xl text-foreground mb-2">Privacybeleid</h1>
           <p className="font-sans text-muted-foreground text-sm mb-10">
-            Laatst bijgewerkt: 1 januari 2025
+            Laatst bijgewerkt: 2026
           </p>
 
           <div className="font-sans text-muted-foreground leading-relaxed space-y-8">
