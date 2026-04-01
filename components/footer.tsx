@@ -12,7 +12,6 @@ const BG = '#1f1108'
 const navLinks = [
   { href: '/', label: 'Home' },
   { href: '/geschiedenis', label: 'Geschiedenis' },
-  { href: '/catalogus', label: 'Catalogus' },
 ]
 
 const legalLinks = [
