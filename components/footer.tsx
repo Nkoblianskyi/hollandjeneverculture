@@ -83,7 +83,7 @@ export function Footer() {
           style={{ borderColor: CREAM15, color: CREAM45 }}
         >
           <p>&copy; {new Date().getFullYear()} hollandjeneverculture.com — Alle rechten voorbehouden.</p>
-          <p>Jenever bevat alcohol. Drink verantwoord. Uitsluitend voor personen van 18 jaar en ouder.</p>
+          <p>Jenever en bier bevatten alcohol. De inhoud van deze website is uitsluitend bedoeld voor personen van 18 jaar en ouder.</p>
         </div>
       </div>
     </footer>
