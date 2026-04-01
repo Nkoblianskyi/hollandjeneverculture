@@ -131,12 +131,6 @@ export function FeaturedJenever() {
               <p className="text-xs text-muted-foreground uppercase tracking-wider">Op eikenhout</p>
             </div>
           </div>
-          <Link
-            href="/catalogus"
-            className="inline-flex px-6 py-3 bg-primary text-primary-foreground text-sm font-semibold tracking-wide hover:opacity-90 transition-opacity rounded"
-          >
-            Alle jenevers bekijken
-          </Link>
         </div>
       </div>
     </section>
